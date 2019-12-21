@@ -1,7 +1,7 @@
 # shk_online
 Sohhka - Loading screen GTA:Online theme.
 
-# Un grand merci à McDo™#2148 pour son aide dans l'affichage des images avec JavaScript ! (Merci de ne pas le MP pour le faire chié).
+# Un grand merci à McDo™#2148 pour son aide dans l'affichage des images avec JavaScript ! (Merci de ne pas le MP).
 
 Drag and drop, ensure shk_online
 
